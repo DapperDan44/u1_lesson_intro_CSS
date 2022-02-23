@@ -1,0 +1,35 @@
+link rel="stylesheet" href="./style.css" />
+body, html {
+    margin: 0;
+    padding: 0;
+}
+
+nav {
+    background-color: teal;
+    padding: 10px 0;
+}
+
+ul {
+    list-style: none;
+}
+
+li {
+    display: inline;
+    margin: 0 10px;
+}
+ header {
+     text-align: center;
+     height: 200px;
+     background-color: bisque;
+     border: 1px solid black;
+ }
+ section {
+     text-align: center;
+ }
+ .box {
+display: inline-block;
+height: 50 px;
+width: 75px;
+background-color: pink;
+border: 1px solid black;
+ }
